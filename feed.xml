@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Ux Mesnie</title>
+    <link href="https://maximebodereau.github.io/maximebodereau.github.io/feed.xml" rel="self" />
+    <link href="https://maximebodereau.github.io/maximebodereau.github.io" />
+    <updated>2022-01-31T15:00:43+01:00</updated>
+    <author>
+        <name>maxime bodereau</name>
+    </author>
+    <id>https://maximebodereau.github.io/maximebodereau.github.io</id>
+
+    <entry>
+        <title>Toujours voulu ecrire un blog</title>
+        <author>
+            <name>maxime bodereau</name>
+        </author>
+        <link href="https://maximebodereau.github.io/maximebodereau.github.io/toujours-voulu-ecrire-un-blog.html"/>
+        <id>https://maximebodereau.github.io/maximebodereau.github.io/toujours-voulu-ecrire-un-blog.html</id>
+
+        <updated>2022-01-31T15:00:43+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Maintenant je vais prendre le temps de le faire. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Maintenant je vais prendre le temps de le faire.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

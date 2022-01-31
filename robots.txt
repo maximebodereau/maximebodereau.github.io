@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://maximebodereau.github.io/maximebodereau.github.io/sitemap.xml
