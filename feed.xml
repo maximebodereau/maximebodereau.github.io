@@ -3,7 +3,7 @@
     <title>Ux Mesnie</title>
     <link href="https://maximebodereau.github.io/maximebodereau.github.io/feed.xml" rel="self" />
     <link href="https://maximebodereau.github.io/maximebodereau.github.io" />
-    <updated>2022-01-31T15:23:56+01:00</updated>
+    <updated>2022-01-31T15:27:26+01:00</updated>
     <author>
         <name>maxime bodereau</name>
     </author>
@@ -14,10 +14,12 @@
         <author>
             <name>maxime bodereau</name>
         </author>
-        <link href="https://maximebodereau.github.io/maximebodereau.github.io/toujours-voulu-ecrire-un-blog/"/>
-        <id>https://maximebodereau.github.io/maximebodereau.github.io/toujours-voulu-ecrire-un-blog/</id>
+        <link href="https://maximebodereau.github.io/maximebodereau.github.io/ux.html"/>
+        <id>https://maximebodereau.github.io/maximebodereau.github.io/ux.html</id>
+            <category term="ux"/>
+            <category term="ui"/>
 
-        <updated>2022-01-31T15:23:56+01:00</updated>
+        <updated>2022-01-31T15:27:26+01:00</updated>
             <summary>
                 <![CDATA[
                     Maintenant je vais prendre le temps de le faire. Over the years the most common designer complaint has always been "No one listens" and "UX isn't a priority/understood", so I want to throw something controversial out there: Some of this is our doing. A quick(ish)&hellip;
